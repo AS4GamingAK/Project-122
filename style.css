@@ -1,0 +1,11 @@
+canvas
+{
+    background: cyan;
+    border-radius: 20px;
+}
+
+span
+{
+    font-size: 12px;
+    color: red;
+}
